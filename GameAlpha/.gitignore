@@ -1,0 +1,5 @@
+proj.win32/GameAlpha.opensdf
+proj.win32/GameAlpha.sdf
+proj.win32/Debug.win32/libAudio.lib
+proj.win32/Debug.win32/libchipmunk.lib
+proj.win32/Debug.win32/libcocos2d.lib

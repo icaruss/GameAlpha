@@ -1,0 +1,15 @@
+﻿Build started 6/16/2014 11:01:37 PM.
+     1>Project "B:\Development Software\GameAlphaSucks\GameAlpha\cocos2d\cocos\audio\proj.win32\CocosDenshion.vcxproj" on node 4 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include" /I..\Include /I"B:\Development Software\GameAlphaSucks\GameAlpha\cocos2d\cocos\2d\..\..\cocos" /I"B:\Development Software\GameAlphaSucks\GameAlpha\cocos2d\cocos\2d\..\..\cocos\platform\win32" /I"B:\Development Software\GameAlphaSucks\GameAlpha\cocos2d\cocos\2d\..\..\cocos\platform\desktop" /I"B:\Development Software\GameAlphaSucks\GameAlpha\cocos2d\cocos\2d\..\..\external\glfw3\include\win32" /I"B:\Development Software\GameAlphaSucks\GameAlpha\cocos2d\cocos\2d\..\..\external\win32-specific\gles\include\OGLES" /ZI /nologo /W3 /WX- /MP /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _CRT_SECURE_NO_WARNINGS /D _VARIADIC_MAX=10 /D _USING_V110_SDK71_ /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug.win32\\" /Fd"Debug.win32\vc110.pdb" /Gd /TP /wd4251 /analyze- /errorReport:prompt ..\win32\MciPlayer.cpp ..\win32\SimpleAudioEngine.cpp
+         MciPlayer.cpp
+         SimpleAudioEngine.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"B:\Development Software\GameAlphaSucks\GameAlpha\proj.win32\Debug.win32\libAudio.lib" /NOLOGO Debug.win32\MciPlayer.obj
+         Debug.win32\SimpleAudioEngine.obj
+         CocosDenshion.vcxproj -> B:\Development Software\GameAlphaSucks\GameAlpha\proj.win32\Debug.win32\libAudio.lib
+     1>Done Building Project "B:\Development Software\GameAlphaSucks\GameAlpha\cocos2d\cocos\audio\proj.win32\CocosDenshion.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:01:31.50
